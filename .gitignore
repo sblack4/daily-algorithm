@@ -1,0 +1,11 @@
+# editors
+.vscode
+
+# javascript
+node_modules
+
+# java
+*.class
+
+#python 
+
