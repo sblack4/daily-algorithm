@@ -20,7 +20,12 @@ java strict_palindrome.palindrome
 
 ## running node/javascript
 
-
+```bash
+node <filename>.js
+```
 
 ## running python 
 
+```bash
+python <filename>.py
+```
